@@ -755,7 +755,7 @@ margin-top: -80px;
    
       width: 1170px;
       margin: 20px;
-      height: 98vh;
+      height: 65vh;
     }
     .chef-image {
       flex: 1;
@@ -778,8 +778,27 @@ margin-top: -80px;
     
     .location-img img {
       width: 680px;
+        height:500px;
       margin-left:10px; 
     }
+      .location-content {
+    max-width: 600px;
+  
+    color:white;
+  }
+  
+  .location-content h2 {
+    font-size:50px;
+   text-align: center;
+  margin-top:40px;
+  }
+  
+  .location-content p {
+    font-size: 13px;
+    line-height: 1.8;
+    padding:30px;
+  }
+          
   
     
     .locate-container {
